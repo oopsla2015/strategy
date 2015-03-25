@@ -2,14 +2,19 @@
 Repository for oopsla2015 artifacts
 
 Requirements:
+
 1) Java 1.7
+
 2) panc.jar
+
 3) programs.zip
 
 Steps:
+
 1) Your current directory should contain:
 	- panc.jar
 	- programs
+
 2) Run following command:
 	java -Xbootclasspath/p:./panc.jar -ea:com.sun.tools... -jar panc.jar -graphs programs/bencherl/bang.java
 	
