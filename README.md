@@ -12,7 +12,9 @@ Requirements:
 Steps:
 
 1) Your current directory should contain:
+
 	- panc.jar
+	
 	- programs
 
 2) Run following command:
